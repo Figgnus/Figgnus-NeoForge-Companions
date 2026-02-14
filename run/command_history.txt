@@ -1,0 +1,20 @@
+/floatingpet
+/floatingpet list
+/floatingpet set bee
+/floatingpet
+/floatingpet clear
+/floatingpet set bee @s
+/tp Figgnus
+/floatingpet set bee Figgnus
+/floatingpet
+/floatingpet list
+/floatingpet set allay
+/floatingpet set bee
+/floatingpet set allay
+/floatingpet set
+/floatingpet set floatingcompanions:bee
+/floatingpet set bee Dev
+/floatingpet set allay
+/floatingpet clear
+/floatingpet set feather_swarm
+/time set day

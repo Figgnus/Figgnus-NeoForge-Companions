@@ -1,0 +1,15 @@
+{
+  "pet.floatingcompanions.bee": "Floating Bee",
+  "pet.floatingcompanions.allay": "Floating Allay",
+  "pet.floatingcompanions.feather_swarm": "Feather Swarm",
+  "command.floatingcompanions.invalid_pet": "Invalid pet id: %s",
+  "command.floatingcompanions.pet_not_found": "Unknown pet '%s'. Use /floatingpet list.",
+  "command.floatingcompanions.list": "Available pets: %s",
+  "command.floatingcompanions.set.self": "Activated pet: %s",
+  "command.floatingcompanions.set.target": "Activated pet %s for %s",
+  "command.floatingcompanions.set.already_active": "%2$s already has pet %1$s active.",
+  "command.floatingcompanions.clear.self": "Cleared your active pet.",
+  "command.floatingcompanions.clear.target": "Cleared active pet for %s.",
+  "command.floatingcompanions.clear.none.self": "You do not have an active pet.",
+  "command.floatingcompanions.clear.none.target": "%s does not have an active pet."
+}
