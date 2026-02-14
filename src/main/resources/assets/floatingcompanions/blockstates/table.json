@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "floatingcompanions:block/table" },
+    "facing=east": { "model": "floatingcompanions:block/table", "y": 90 },
+    "facing=south": { "model": "floatingcompanions:block/table", "y": 180 },
+    "facing=west": { "model": "floatingcompanions:block/table", "y": 270 }
+  }
+}
