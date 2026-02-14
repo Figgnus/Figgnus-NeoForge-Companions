@@ -18,3 +18,7 @@
 /floatingpet clear
 /floatingpet set feather_swarm
 /time set day
+/gamerule doDaylightCycle false
+/gamerule doWeatherCycle false
+/weather clear
+/floatingpet set feather_swarm
